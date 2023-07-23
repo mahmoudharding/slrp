@@ -1,2 +1,2 @@
 # slrp
-Summer Research and Leadership Program at NCSSM
+## Summer Research and Leadership Program at NCSSM
